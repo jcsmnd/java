@@ -15,7 +15,7 @@ public class JavaBasic02 {
         }
     }
 
-    class parent{ //Super or parent class
+    class parent{ //Super or parent  class
         String name;
 
         parent(){ //
