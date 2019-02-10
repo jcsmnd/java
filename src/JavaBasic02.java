@@ -18,7 +18,7 @@ public class JavaBasic02 {
     class parent{ //Super or parent class
         String name;
 
-        parent(){
+        parent(){ //
             System.out.println("default constructor");
         }
 
